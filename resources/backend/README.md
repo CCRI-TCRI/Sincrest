@@ -44,6 +44,24 @@ to work — only for that extra changelog view. Format:
 }
 ```
 
+## languages/ (language pack downloads)
+
+Feeds `src/app/configs/languages.cfg`'s `server_url`. Unlike the other feeds
+here, this one has real content behind it: `languages/details.json` is a
+manifest with a SHA-1 hash per language/resource, and `languages/locale_<code>.zip`
+holds the actual compiled `.qm` translation files for that language — both
+generated automatically from the real, already-translated `share/locale/*.ts`
+source files already in this repo, by the
+`.github/workflows/update_language_packs.yml` workflow (which runs
+`buildscripts/ci/languages/generate_language_packs.py` using Qt's `lrelease`).
+
+It runs on every push to `main` that touches `share/locale/*.ts`, and can also
+be triggered manually from the Actions tab. Until it first runs,
+`languages/details.json` is an empty placeholder (`{}`), so the app just sees
+no languages need updating yet — same bundled translations that ship with the
+app either way, this only affects picking up *newer* translations without a
+full app update.
+
 ## Auto-update itself
 
 Auto-update does *not* use a file in here — `update.cfg`'s `latest` key
