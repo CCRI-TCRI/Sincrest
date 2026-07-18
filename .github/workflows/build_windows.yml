@@ -192,8 +192,8 @@ jobs:
         uses: actions/cache/restore@v6
         with:
           path: ${{ github.workspace }}/.ccache
-          key: ${{runner.os}}-${{runner.arch}}-ccache-
-          restore-keys: ${{runner.os}}-${{runner.arch}}-ccache-
+          key: ${{runner.os}}-${{runner.arch}}-ccache-v2-
+          restore-keys: ${{runner.os}}-${{runner.arch}}-ccache-v2-
       - name: Setup ccache
         run: |
           choco install -y ccache
@@ -360,8 +360,8 @@ jobs:
         uses: actions/cache/restore@v6
         with:
           path: ${{ github.workspace }}/.ccache
-          key: ${{runner.os}}-${{runner.arch}}-ccache-
-          restore-keys: ${{runner.os}}-${{runner.arch}}-ccache-
+          key: ${{runner.os}}-${{runner.arch}}-ccache-v2-
+          restore-keys: ${{runner.os}}-${{runner.arch}}-ccache-v2-
       - name: Setup ccache
         run: |
           choco install -y ccache
