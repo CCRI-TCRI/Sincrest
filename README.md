@@ -1,11 +1,10 @@
 # Sincrest
 
-Music notation and composition software
+Music notation and composition software, built by Sseruwagi Sinclaire Sebastian.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![Coverage](https://s3.us-east-1.amazonaws.com/extensions.musescore.org/test/code_coverage/coverage_badge.svg?)](https://github.com/musescore/MuseScore/actions/workflows/check_unit_tests.yml)
 
-Sincrest is an open source and free music notation software, based on MuseScore Studio. Fork and make pull requests!
+Sincrest is an open source and free music notation software. Fork and make pull requests!
 
 ## Features
 
@@ -21,37 +20,20 @@ Sincrest is an open source and free music notation software, based on MuseScore 
 - Integrated sequencer and software synthesizer to play the score
 - Print or create PDF files
 
-## More info
-
-- [MuseScore Studio Homepage](https://musescore.org) (upstream project)
-- [MuseScore Studio Git workflow instructions](https://musescore.org/en/developers-handbook/git-workflow)
-- [How to compile MuseScore Studio?](https://github.com/musescore/MuseScore/wiki/Set-up-developer-environment)
-
 ## License
 
 Sincrest is licensed under GPL version 3.0. See [license file](LICENSE.txt) in the same directory.
 
-## Packages
-
-See [Code Structure on Wiki](https://github.com/musescore/MuseScore/wiki/CodeStructure)
-
 ## Building
-
-**Read the [Compilation section](https://github.com/musescore/MuseScore/wiki/Set-up-developer-environment) of the [MuseScore Wiki](https://github.com/musescore/MuseScore/wiki) for a complete build walkthrough and a list of dependencies.**
 
 ### Getting sources
 
 If using git to download repo of entire code history, type:
 
-    git clone  --recurse-submodules https://github.com/musescore/MuseScore.git
-    cd MuseScore
+    git clone --recurse-submodules https://github.com/CCRI-TCRI/Sincrest.git
+    cd Sincrest
 
-(The `--recurse-submodules` ensures that the [`muse_framework`](https://github.com/musescore/muse_framework) git submodule is checked out into the `muse/` subdirectory.)
-
-Otherwise, you can just download the latest source release tarball from the [Releases page](https://github.com/musescore/MuseScore/releases), and then from your download directory type:
-
-    tar xzf MuseScore-x.x.x.tar.gz
-    cd MuseScore-x.x.x
+(The `--recurse-submodules` ensures that the `muse_framework` git submodule is checked out into the `muse/` subdirectory.)
 
 ### Release Build
 
@@ -86,7 +68,7 @@ used by default, as it provides a useful compromise between Release and Debug.
 
 ### Testing
 
-See the [Unit tests section](https://github.com/musescore/MuseScore/wiki/Unit-tests) of the [MuseScore Studio Wiki](https://github.com/musescore/MuseScore/wiki) for instructions on how to run the test suite.
+Run the test suite via CTest after building.
 
 ### Code Formatting
 

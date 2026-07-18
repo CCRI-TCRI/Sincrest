@@ -45,8 +45,8 @@ void PublishToolBarModel::load()
     };
 
     addItem("print");
-    addItem("file-publish", muse::TranslatableString("project/save", "Share this score and its audio on MuseScore.com"));
-    addItem("file-share-audio", muse::TranslatableString("project/save", "Share the audio from this score on Audio.com"));
+    addItem("file-publish", muse::TranslatableString("project/save", "Share this score and its audio"));
+    addItem("file-share-audio", muse::TranslatableString("project/save", "Share the audio from this score"));
     addItem("file-export");
 
     setItems(items);
