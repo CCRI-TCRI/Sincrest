@@ -186,18 +186,18 @@ jobs:
         echo "DO_PUBLISH=$DO_PUBLISH" | tee -a $GITHUB_ENV
         echo "UPLOAD_ARTIFACT_NAME=$UPLOAD_ARTIFACT_NAME" | tee -a $GITHUB_ENV
 
-    # - parallel:
-    #   - name: Restore ccache files
-    #     id: restore-ccache
-    #     uses: actions/cache/restore@v6
-    #     with:
-    #       path: ${{ github.workspace }}/.ccache
-    #       key: ${{runner.os}}-${{runner.arch}}-ccache-
-    #       restore-keys: ${{runner.os}}-${{runner.arch}}-ccache-
-    #   - name: Setup ccache
-    #     run: |
-    #       choco install -y ccache
-    #       bash ./buildscripts/ci/tools/setup_ccache_config.sh
+    - parallel:
+      - name: Restore ccache files
+        id: restore-ccache
+        uses: actions/cache/restore@v6
+        with:
+          path: ${{ github.workspace }}/.ccache
+          key: ${{runner.os}}-${{runner.arch}}-ccache-
+          restore-keys: ${{runner.os}}-${{runner.arch}}-ccache-
+      - name: Setup ccache
+        run: |
+          choco install -y ccache
+          bash ./buildscripts/ci/tools/setup_ccache_config.sh
 
     - parallel:
       - name: Install Qt
