@@ -1,1 +1,570 @@
-{}
+{
+    "af": {
+        "instruments": {
+            "hash": "b1a2946e4ccb7d44feccce316a7bb1ca62418ce8"
+        },
+        "musescore": {
+            "hash": "d523bb5d7a0a1f77553f25e3e75dca9ceedc8d5c"
+        }
+    },
+    "ar": {
+        "instruments": {
+            "hash": "535d769100bca615a1121dee51ffc9879e38d1b7"
+        },
+        "musescore": {
+            "hash": "d457234e4326fdc98cd931772fb90833a4f93eeb"
+        }
+    },
+    "ar_DZ": {
+        "instruments": {
+            "hash": "af6204bf802b45c1a3b2dccb8a1574ce96b91a8b"
+        },
+        "musescore": {
+            "hash": "6a5fc7c5a38d95bce3a39384efadbf26b22f8c64"
+        }
+    },
+    "ar_EG": {
+        "instruments": {
+            "hash": "efa79021c9dddefa235c7cf697f60284c0619ad6"
+        },
+        "musescore": {
+            "hash": "a2cf55d11c5276ad02298667d17927f972cdd8eb"
+        }
+    },
+    "ar_SD": {
+        "instruments": {
+            "hash": "1a73ae680d729229fd1052964401ccb39d734a9c"
+        },
+        "musescore": {
+            "hash": "f2d547c12179f5f95434aa71d8ebc089cc593594"
+        }
+    },
+    "ast": {
+        "instruments": {
+            "hash": "794e6b9b5c37457b9a4437f88df6cc8cea4ca1de"
+        },
+        "musescore": {
+            "hash": "44eafd7d9e34a76b9dbf7bf9f2f90f4abc2fdde7"
+        }
+    },
+    "be": {
+        "instruments": {
+            "hash": "972424b4959011509b98462ee6ba04662d5ac538"
+        },
+        "musescore": {
+            "hash": "2a35b798054eef923c8f56ef39881f5587f5229c"
+        }
+    },
+    "bg": {
+        "instruments": {
+            "hash": "5cbd4cceb262c866e40e49c8e7e67d8bbe00b97a"
+        },
+        "musescore": {
+            "hash": "e8cccb97b518eed505173cc6eaf77c7e2566a92d"
+        }
+    },
+    "br": {
+        "instruments": {
+            "hash": "1bc536f688ab8f99336ea70837efa7c7082621e8"
+        },
+        "musescore": {
+            "hash": "2859e75ad0d473016ad6c5688616b54110033006"
+        }
+    },
+    "ca": {
+        "instruments": {
+            "hash": "c48b095ca90abdc526ec766d7186d328bee832dd"
+        },
+        "musescore": {
+            "hash": "7ee1b37e04b9f828c74b3cf0f97db797aa219bd6"
+        }
+    },
+    "ca@valencia": {
+        "instruments": {
+            "hash": "44fc44402537f71fe8e83c60c6acb93584bd8ce3"
+        },
+        "musescore": {
+            "hash": "d6d6f61be046265469db57a530b6317d277bdc66"
+        }
+    },
+    "cs": {
+        "instruments": {
+            "hash": "c8845b8771e10f4470dca004fddaa9344a042cc1"
+        },
+        "musescore": {
+            "hash": "0be1e6724c75f075abe126160cf2945d6ef0e55c"
+        }
+    },
+    "cy": {
+        "instruments": {
+            "hash": "06c761f0b7d0eea5026d0ef1c10ecdaabad7941d"
+        },
+        "musescore": {
+            "hash": "a1a0e47c393995d77a9ed1e4e7fcfe353a133836"
+        }
+    },
+    "da": {
+        "instruments": {
+            "hash": "1935b90a69f4995c34fe19544dfa693933781fa9"
+        },
+        "musescore": {
+            "hash": "aa73f87f57fb9da3eb9a7693f44d811158747c56"
+        }
+    },
+    "de": {
+        "instruments": {
+            "hash": "0c769eb3965d9feade76a1d975d6b4f7365ffdde"
+        },
+        "musescore": {
+            "hash": "f6e542da53ad51f8ab73f4595d47f94ca12e3cc4"
+        }
+    },
+    "el": {
+        "instruments": {
+            "hash": "8c8f111cc841981f119d09f8c4c7839489c6e4a0"
+        },
+        "musescore": {
+            "hash": "55e714083aa3e493ee2381cac2e1e12c08d7fd87"
+        }
+    },
+    "en": {
+        "instruments": {
+            "hash": "ac11a387c5302e7366120a6ce7e5f415ab7a7f81"
+        },
+        "musescore": {
+            "hash": "94863203e99933ef656dbcbc9e1693967f5ed406"
+        }
+    },
+    "en_GB": {
+        "instruments": {
+            "hash": "5e673fd60f392651864fb82450ea5459b4ddd490"
+        },
+        "musescore": {
+            "hash": "30e694fdc9ec32c5f1a56464d4f715ab0173cc21"
+        }
+    },
+    "en_US": {
+        "instruments": {
+            "hash": "94545132dfe914c9f1b899eb908a804ff45af7ba"
+        },
+        "musescore": {
+            "hash": "f6592f1001658f27cc4dc35ed28cbe10ba46fd64"
+        }
+    },
+    "eo": {
+        "instruments": {
+            "hash": "aea36aea582a8f04d4b9571671f1f1e5321fef7d"
+        },
+        "musescore": {
+            "hash": "2fdadb793ddc574c8b41b85e430eacccf6851e80"
+        }
+    },
+    "es": {
+        "instruments": {
+            "hash": "47d2418f3f4230a98a6b6d6d21a516a837354ce9"
+        },
+        "musescore": {
+            "hash": "89e0d6a7c9e75c6caf476c7916b83a58d42c32b1"
+        }
+    },
+    "et": {
+        "instruments": {
+            "hash": "6c8f8326681ea6643c2fc4cf3411813f4f421a0f"
+        },
+        "musescore": {
+            "hash": "15f8478e49da43427bed033f760733317f835dcd"
+        }
+    },
+    "eu": {
+        "instruments": {
+            "hash": "c6fe393d2e853bbd511a2f1cafc65ce914147ae2"
+        },
+        "musescore": {
+            "hash": "beda09f6c24413f1ccd8ce26de78ce190c00875b"
+        }
+    },
+    "fa": {
+        "instruments": {
+            "hash": "980fc0807bf908c3a07e501e42a51779bca88223"
+        },
+        "musescore": {
+            "hash": "054ab2c4e46f7ea998b259f998a9fa3a5a5cec3f"
+        }
+    },
+    "fi": {
+        "instruments": {
+            "hash": "353498ba5a93e6be1f5460049dedeb446cd9229d"
+        },
+        "musescore": {
+            "hash": "c9d374acf5f148a3271c1764cf056f329c9b4763"
+        }
+    },
+    "fil": {
+        "instruments": {
+            "hash": "bf4dfb4f19cb1604dcb4fbf7580ca5dd1a2a8da3"
+        },
+        "musescore": {
+            "hash": "2902a07355baa69dff7997385c892f4e225dfa96"
+        }
+    },
+    "fo": {
+        "instruments": {
+            "hash": "8b924e2b44fa74675c0c8f429aa7e5e81f30d88f"
+        },
+        "musescore": {
+            "hash": "512f80d5798c032529284903d036498d1a83f3f9"
+        }
+    },
+    "fr": {
+        "instruments": {
+            "hash": "b55681e650ce34c09b3833f7e2ceeb7f57e5cf22"
+        },
+        "musescore": {
+            "hash": "018b61e11240853759a28ad82c835e312be75304"
+        }
+    },
+    "ga": {
+        "instruments": {
+            "hash": "d74a8623bb829e3b4cbf8965845e506350fc11e3"
+        },
+        "musescore": {
+            "hash": "b7f14827fdfaceb4bcc649fa39a2c8bccb6e10d9"
+        }
+    },
+    "gd": {
+        "instruments": {
+            "hash": "b4f464b2e5aa017b89b76a5fd01369f26484fdb0"
+        },
+        "musescore": {
+            "hash": "e7aa243094fd5b7c0f4a3ab30a239a25245cb1d7"
+        }
+    },
+    "gl": {
+        "instruments": {
+            "hash": "ed11b7c4dd0be88b26cff8fc2310bef364f4e723"
+        },
+        "musescore": {
+            "hash": "858bc570d1ea24f40ad5b128c22edc97d5a7a4e2"
+        }
+    },
+    "he": {
+        "instruments": {
+            "hash": "1f49abbe862604db8090eab905ad9b3e5c8dd246"
+        },
+        "musescore": {
+            "hash": "272836f7c067b03399c8864fc20ccbe035e83b18"
+        }
+    },
+    "hi_IN": {
+        "instruments": {
+            "hash": "06b7375d7763c29803eedb58bf3a03794f1af053"
+        },
+        "musescore": {
+            "hash": "ac5c27ecf951dc1c333fadb8bac1eb4d66bb2450"
+        }
+    },
+    "hr": {
+        "instruments": {
+            "hash": "e6256ec1115ccfe50cefb11e2fb16081d54e09ee"
+        },
+        "musescore": {
+            "hash": "cdfacb3f76d9356328669bae259970e3e98fd985"
+        }
+    },
+    "hu": {
+        "instruments": {
+            "hash": "4e9f5d91a4ea7936a4859526a3c70930cd875493"
+        },
+        "musescore": {
+            "hash": "922d3861092345d0c0d5eea08859c008757b9d7c"
+        }
+    },
+    "hy": {
+        "instruments": {
+            "hash": "10e70662d55115dda45fbbe3a927bbf5b0215670"
+        },
+        "musescore": {
+            "hash": "1eabbf555352f223ec7609217a4ce1b074427370"
+        }
+    },
+    "id": {
+        "instruments": {
+            "hash": "83364c3afe78b9331887bcd3aeaaba281faa7f3e"
+        },
+        "musescore": {
+            "hash": "4403463cafd4ab369558d4b7cc29c7f97265a82a"
+        }
+    },
+    "ig": {
+        "instruments": {
+            "hash": "5532993f4e65c526eb13158b3b22448975bd8536"
+        },
+        "musescore": {
+            "hash": "79aadf512be67bca1654cbf17dfcea4f0a601b2a"
+        }
+    },
+    "it": {
+        "instruments": {
+            "hash": "7c454393a7b8551b9eecf60ef9c2b2d6ea7d02a0"
+        },
+        "musescore": {
+            "hash": "4593fbcb8e2b563899c1801ef41df0575fc46eb9"
+        }
+    },
+    "ja": {
+        "instruments": {
+            "hash": "de136128681fdac64070cbd440eaef64de387cde"
+        },
+        "musescore": {
+            "hash": "8b7e308fd1ef0b888b9b069a13b3610da9476abf"
+        }
+    },
+    "ka": {
+        "instruments": {
+            "hash": "011c9311e4060d8c20404b6d84a18159b97315b7"
+        },
+        "musescore": {
+            "hash": "694dba83c40b8a5bc90302391a29f5893552acc3"
+        }
+    },
+    "kab": {
+        "instruments": {
+            "hash": "dec36dadad71182abcb44e12e2f5c174f06f0403"
+        },
+        "musescore": {
+            "hash": "a8fcecd86fc1d236c461434579d0ee826472e644"
+        }
+    },
+    "ko": {
+        "instruments": {
+            "hash": "29fcb0515dcae0b16903b02457ee06972055d8ef"
+        },
+        "musescore": {
+            "hash": "ce410888885d3d1f42b4321c67087cdeeb34762d"
+        }
+    },
+    "lt": {
+        "instruments": {
+            "hash": "74466b1396e39d2c7f3e7bacd64105853de51418"
+        },
+        "musescore": {
+            "hash": "73f49cb2c7773788330ccaa0b8aaa75707d62070"
+        }
+    },
+    "lv": {
+        "instruments": {
+            "hash": "790c43b160945ed7b00693b673e05c21b5e7096c"
+        },
+        "musescore": {
+            "hash": "9cb0bee467e25ffc0cc879b85ec0b8df60710eb6"
+        }
+    },
+    "ml": {
+        "instruments": {
+            "hash": "62234f3d94b120834c5cf97da29baf13cd6b1e94"
+        },
+        "musescore": {
+            "hash": "20c5d3a4d0640f99c9eced0fc89fe84472ffed20"
+        }
+    },
+    "mn_MN": {
+        "instruments": {
+            "hash": "df730f4de656473fd742c67ba28df0926dfa1313"
+        },
+        "musescore": {
+            "hash": "89e47fb1073173ac09dbfb2ba7209eac3b20d84f"
+        }
+    },
+    "mt": {
+        "instruments": {
+            "hash": "7c7a1f278e0661cb520345ea54666c09deb2201f"
+        },
+        "musescore": {
+            "hash": "4e252fc7bed18aa9afc501c311cadee319f5d70b"
+        }
+    },
+    "nb": {
+        "instruments": {
+            "hash": "89403914f289bb289587144f4958a3946b638e43"
+        },
+        "musescore": {
+            "hash": "4ac5483bb6b7c5debeca56f69c2cb6649f797a03"
+        }
+    },
+    "nl": {
+        "instruments": {
+            "hash": "8e52d3ca2dec24440fbbf94ffe0d217e2fc9b5a6"
+        },
+        "musescore": {
+            "hash": "d76d1e90fc54a7b1fee6ae51d8d0cc6a969e50df"
+        }
+    },
+    "nn": {
+        "instruments": {
+            "hash": "b8f5f199d95cc2b6b2105882b15b76fe04e9871d"
+        },
+        "musescore": {
+            "hash": "806450ee6e0008c2fff0603f536a1301dade8ca5"
+        }
+    },
+    "pl": {
+        "instruments": {
+            "hash": "75453294320ed097aaaae887244055e0722da206"
+        },
+        "musescore": {
+            "hash": "5d0d349f7e1de3eba0f76ed08124c41e5f8770ab"
+        }
+    },
+    "pt": {
+        "instruments": {
+            "hash": "5c62c72015a647cd720df4cf2e118204d064cabf"
+        },
+        "musescore": {
+            "hash": "0aa9c5a4a05888f86b58d35420667090c0fda4ea"
+        }
+    },
+    "pt_BR": {
+        "instruments": {
+            "hash": "faad445b596aa9fb249c23a18c476aa2b219a501"
+        },
+        "musescore": {
+            "hash": "7d49dc44fa0e20aea71fc9dc44797c469293b4d3"
+        }
+    },
+    "ro": {
+        "instruments": {
+            "hash": "df1109c0e864f5a1abf4cd65c3b9c7165d0686d0"
+        },
+        "musescore": {
+            "hash": "7efb645e49a378c16609de2fdd553e38c8e0cf21"
+        }
+    },
+    "ru": {
+        "instruments": {
+            "hash": "3206289bdd204dba0dc9539998ea7f0092378cf0"
+        },
+        "musescore": {
+            "hash": "0ea1e0ede19707c6f6dfec82382e63f0a77574fd"
+        }
+    },
+    "scn": {
+        "instruments": {
+            "hash": "000af8a5add4f543f762cd92c900901487497a7d"
+        },
+        "musescore": {
+            "hash": "169342e1b9d5131175c56ae22f1436f0bf99b7e4"
+        }
+    },
+    "sk": {
+        "instruments": {
+            "hash": "7f346e638dde4b65a2af8fc1e73b16bc75b8e7dd"
+        },
+        "musescore": {
+            "hash": "aefd6eadbd4bdf086172d9303ce75fdf178f801d"
+        }
+    },
+    "sl": {
+        "instruments": {
+            "hash": "905950cf93591c2173691de5f0703bb42d767af3"
+        },
+        "musescore": {
+            "hash": "94796e36b5b4c15c4eb870ef95db58270f651c4b"
+        }
+    },
+    "sr": {
+        "instruments": {
+            "hash": "4b4e62607cd912d50a46ce92bea0152ede22c206"
+        },
+        "musescore": {
+            "hash": "99dbf750e19af02e97e315e43cd9f671b621d065"
+        }
+    },
+    "sr_RS": {
+        "instruments": {
+            "hash": "5a82fbf90755013e4813e8d1944c07ff2010c979"
+        },
+        "musescore": {
+            "hash": "95b4aaf25f4b003edad53b09efd1823a48213b75"
+        }
+    },
+    "sv": {
+        "instruments": {
+            "hash": "5cf0a9194cadc9d85b97532f631d8eea9f51baf1"
+        },
+        "musescore": {
+            "hash": "37bd3a9104cd420839b0b26ef970e45889152f0e"
+        }
+    },
+    "sv_SE": {
+        "instruments": {
+            "hash": "e5ba29b25aa56741fafbdd7289b839d1a96901e5"
+        },
+        "musescore": {
+            "hash": "b6319d849a10d2b30c629bedc1897b2ec67c6d4e"
+        }
+    },
+    "th": {
+        "instruments": {
+            "hash": "914bd6df61267dc7e22359f85d3ebaaa750f8ae4"
+        },
+        "musescore": {
+            "hash": "eb219f209aa7cb3fcf88792fe1eba20f7d45e715"
+        }
+    },
+    "tr": {
+        "instruments": {
+            "hash": "12cb4416c6b6fa94d698a5ad46c146fa3cf873f5"
+        },
+        "musescore": {
+            "hash": "d53614ed0beb3ba85ad3550fbd1c668c040f824a"
+        }
+    },
+    "uk": {
+        "instruments": {
+            "hash": "8da6ab15b023f886b617cde3aa71a7fd30aa728a"
+        },
+        "musescore": {
+            "hash": "03425be46e0a41433c6673dafcd17c8588563c11"
+        }
+    },
+    "uz@Latn": {
+        "instruments": {
+            "hash": "4aec8de06a0624bcd4a3c8827754c21b9cb7b75d"
+        },
+        "musescore": {
+            "hash": "144efbf99f0036d80a2b432bdcda12e7f855be52"
+        }
+    },
+    "vi": {
+        "instruments": {
+            "hash": "32c617a882176bdbec942996652286b17169241c"
+        },
+        "musescore": {
+            "hash": "9248b0fcb18461479de2f413f97fd3b1f7ae6812"
+        }
+    },
+    "zh_CN": {
+        "instruments": {
+            "hash": "4f3a248fbba10b5aeba0fe07342c4628206d0bb7"
+        },
+        "musescore": {
+            "hash": "fd280abe8282844110658f70d74c95bd2ad6f3aa"
+        }
+    },
+    "zh_HK": {
+        "instruments": {
+            "hash": "44530178885f61e1bc6ef46621c8452b4f9e1334"
+        },
+        "musescore": {
+            "hash": "870687dded9251c0fab4b5cbe8251ea3315c8bfd"
+        }
+    },
+    "zh_TW": {
+        "instruments": {
+            "hash": "a0042840f7cb755f48cbda8736e79d122f80359f"
+        },
+        "musescore": {
+            "hash": "4d99c48ea5e900659b7abbbc3ca114aa4d31a504"
+        }
+    }
+}
