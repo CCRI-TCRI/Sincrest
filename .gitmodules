@@ -1,9 +1,6 @@
 [submodule "muse_framework"]
 	path = muse
-	url = https://github.com/musescore/muse_framework.git
+	url = https://github.com/CCRI-TCRI/muse_framework.git
 [submodule "muse_deps"]
 	path = muse_deps
 	url = https://github.com/musescore/muse_deps.git
-[submodule "muse"]
-	path = muse
-	url = https://github.com/musescore/muse_framework.git
