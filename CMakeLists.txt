@@ -235,6 +235,13 @@ if (MUSE_ENABLE_UNIT_TESTS)
     message(STATUS "Enabled testing")
 endif()
 
+if (MSVC)
+    # C4702: unreachable code, triggered from inside Qt's own headers
+    # (qmetatype.h, qvariant.h, qjsengine.h) under /W4 with newer MSVC
+    # toolsets. Not actionable in project code, so silence it globally.
+    add_compile_options(/wd4702)
+endif()
+
 add_subdirectory(share)
 add_subdirectory(${MUSE_FRAMEWORK_SRC_PATH})
 add_subdirectory(src)
