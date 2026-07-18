@@ -8,6 +8,9 @@ on:
       - 'share/locale/*.ts'
       - 'buildscripts/ci/languages/generate_language_packs.py'
 
+permissions:
+  contents: write
+
 jobs:
   update-language-packs:
     runs-on: ubuntu-slim
