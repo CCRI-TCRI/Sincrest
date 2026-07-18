@@ -272,6 +272,7 @@ jobs:
       with:
         name: ${{ env.UPLOAD_ARTIFACT_NAME }}
         path: build.artifacts\
+        retention-days: 3
 
     - name: Prepare ccache files for saving
       id: prepare-save-ccache
@@ -421,6 +422,7 @@ jobs:
       with:
         name: ${{ env.UPLOAD_ARTIFACT_NAME }}
         path: build.artifacts\
+        retention-days: 3
 
     - name: Prepare ccache files for saving
       id: prepare-save-ccache
